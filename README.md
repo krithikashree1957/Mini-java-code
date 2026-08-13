@@ -95,3 +95,9 @@ Name: Alex, Roll No: 101, Department: Computer Science, CGPA: 3.85
 ```
 
 ```
+
+---
+
+## Author
+
+author: @krithikashree1957 — Krithika shree k
